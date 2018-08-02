@@ -1,0 +1,8 @@
+[{'Nome': 'victor', 'idade': '21', 'sexo': 'M', 'cpf': '12415'}]
+[{'Nome': 'victor', 'idade': '21', 'sexo': 'M', 'cpf': '122135'}]
+[{'Nome': 'João Victor', 'idade': '21', 'sexo': 'M', 'cpf': '12412151'}]
+[{'Nome': 'Gleize Rolfman', 'idade': '55', 'sexo': 'F', 'cpf': '171.174.666-13'}]
+[{'Nome': 'João Victor', 'idade': '21', 'sexo': 'M', 'cpf': '12415156'}]
+[{'Nome': 'joão victor', 'idade': '21', 'sexo': 'M', 'cpf': '1231215'}]
+[{'Nome': 'Gleize ', 'idade': '55', 'sexo': 'F', 'cpf': '2515135'}]
+[{'Nome': 'João Victor Palmeira da Silva', 'idade': '21', 'sexo': 'M', 'cpf': '126.915.333-15'}, {'Nome': 'Megan Fox', 'idade': '33', 'sexo': 'F', 'cpf': '125.696.105-63'}]
